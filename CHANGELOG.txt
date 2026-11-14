@@ -1,0 +1,10 @@
+Prayer Times Desktop v1.7.1
+- Removed the transparent decorative circle from the Next Event card.
+- Added a compact frameless Windows title strip with minimize, maximize/restore and close controls, reducing unused space above the app header.
+- Expanded situational prayer cards with Wudu prayer, solar/lunar eclipse prayer, rain prayer, funeral prayer and general voluntary prayer.
+- Replaced one-time situational checkboxes with persistent per-day repeatable rak'ah-set records; each pair click records two rak'ahs and an occasion count.
+- Added selectable 2–12 rak'ah sets for eclipse prayers and an even-number custom count for unlimited general voluntary prayer.
+- Added 500 ms in-card completion feedback and a 500 ms gold border glow.
+- Weekly records and daily summaries now display situational rak'ah totals and occurrence counts.
+- Preserved legacy situational records and added count-map migration/backup merge support.
+- Added bilingual guidance and school-specific source handling; Ja'fari references are not populated with Sunni narrations where no verified Ja'fari citation is present.
